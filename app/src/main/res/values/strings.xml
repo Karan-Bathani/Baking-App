@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="recipe">Recipe</string>
+    <string name="dummy_image">Dummy Image</string>
+
+    <string name="no_network">Bad or no Network!\n\nThis application requires network connection</string>
+    <string name="no_network_try_again">Try Again</string>
+    <string name="no_network_close">Close App</string>
+    <string name="menu_item_star_title">Recipe Steps on Widget</string>
+
+    <string name="widget_recipe_added">Recipe Added to Widget</string>
+    <string name="widget_recipe_removed">Recipe Removed from Widget</string>
+
+    <string translatable="false" name="dummy_widget_recipe_title">RECIPE TITLE</string>
+    <string translatable="false" name="dummy_widget_ingredients">INGREDIENTS\nINGREDIENTS\nINGREDIENTS\nINGREDIENTS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="steps_for_th_recipie">Steps for th Recipie</string>
+    <string name="play_button">Play Button</string>
+    <string name="recipe_introduction">Step</string>
+    <string name="step">Step</string>
+    <string name="video_thumbnail">Video Thumbnail</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="dummy">Dummy</string>
+
+</resources>
